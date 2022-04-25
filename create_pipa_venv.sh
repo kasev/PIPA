@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-VENVNAME=pia_venv
+VENVNAME=pipa_venv
 
 python3 -m venv $VENVNAME
 source $VENVNAME/bin/activate
