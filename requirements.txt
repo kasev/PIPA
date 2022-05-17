@@ -14,3 +14,7 @@ seaborn
 scikit-learn
 gensim
 nltk
+
+sddk
+gspread
+gspread_dataframe
