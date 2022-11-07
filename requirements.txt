@@ -1,4 +1,4 @@
-# basic data manipulation
+pip
 ipython
 jupyter
 
@@ -6,16 +6,16 @@ pandas
 numpy
 requests
 
-# visualisations
+#visualisations
 matplotlib
 seaborn
 
-# machine learning, NLP & statistics
+# machine learning, NLP & statistics
 scikit-learn
 gensim
 nltk
-tensorflow
-keras
+#tensorflow
+#keras
 
 sddk
 gspread
