@@ -1,28 +1,28 @@
 ,greek,english,category,count
-249,ἀγαθός,good,moral,8832
-6,κακός,bad,moral,4780
+249,ἀγαθός,good,morality,8832
+6,κακός,bad,morality,4780
 209,σῶμα,body,bodily parts,4651
-32,φίλος,"loved, beloved, dear",moral,3534
-248,ἀδικέω,to do wrong,moral,2134
-94,ἄξιος,weighing as much,moral,1622
+32,φίλος,"loved, beloved, dear",morality,3534
+248,ἀδικέω,to do wrong,morality,2134
+94,ἄξιος,weighing as much,morality,1622
 259,ἡδονή,pleasure,opossite,1602
 106,σῴζω,preserve,opossite,1274
 241,ἡδύς,plaesant,opossite,1239
 163,πόνος,"hardship, pain",pain,1118
-199,αἰσχρός,"causing shame, abusive",moral,1021
+199,αἰσχρός,"causing shame, abusive",morality,1021
 74,πυρετός,"burning heat, fiery heat",pathology,1020
 237,κίνδυνος,"a danger, risk, hazard, venture, enterprise",suffering,983
 0,χαίρω,rejoice,opossite,896
-42,φοβέω,to put to flight,emotion,856
+42,φοβέω,to put to flight,emotions,856
 2,πονηρός,"toilsome, painful, grievous",pain,838
 358,ὀδύνη,pain,pain,809
-230,φιλέω,"to love, regard with affection",emotion,804
+230,φιλέω,"to love, regard with affection",emotions,804
 108,σάρξ,flesh,bodily parts,779
 160,φλέψ,a vein,bodily parts,724
 11,ὠφελέω,"to help, aid, assist, succour, to be of use",opossite,715
 111,σιτίον,"grain, corn: food made from grain, bread",dietetics,664
-289,φόβος,fear,emotion,640
-66,ἐλπίς,"hope, expectation",opossie,623
+289,φόβος,fear,emotions,640
+66,ἐλπίς,"hope, expectation",opossite,623
 62,ἁμαρτάνω,"to miss, miss the mark",suffering,608
 240,λύπη,pain,pain,559
 261,ἐπιθυμία,desire,opossite,557
@@ -31,167 +31,167 @@
 51,οὖς,"auris, the ear",bodily parts,500
 80,ἕλκος,wound,pathology,490
 203,πονέω,toil,dietetics,488
-72,ὀργή,natural impulse,emotion,468
+72,ὀργή,natural impulse,emotions,468
 49,λυπέω,be in pain,pain,447
 320,τάλας,suffering,suffering,436
 47,ὕπνος,"sleep, slumber",dietetics,436
 35,αἰσχύνω,"to make ugly, disfigure, mar",suffering,435
-18,μισέω,hate,moral,434
+18,μισέω,hate,morality,434
 32,καρδία,the heart,bodily parts,433
-120,ἀνδρεῖος,of,moral,423
+120,ἀνδρεῖος,of,morality,423
 234,τιμωρέω,"to help, aid, succour",opossite,423
-87,σώφρων,of sound mind,moral,421
+87,σώφρων,of sound mind,morality,421
 70,χολή,"gall, bile",bodily parts,421
 4,διάκειμαι,to be affected,suffering,401
 56,ὑγιαίνω,"to be sound, healthy",opossite,395
 169,μέτριος,moderate,dietetics,392
 167,ἀναλίσκω,consume,dietetics,385
 133,θερμαίνω,"to warm, heat",pathology,382
-180,ἀνδρεία,"manliness, manhood, manly spirit",moral,378
+180,ἀνδρεία,"manliness, manhood, manly spirit",morality,378
 2,ἥδομαι,feel pleasure,opossite,370
-29,θαρσέω,"to be of good courage, take courage",moral,356
+29,θαρσέω,"to be of good courage, take courage",morality,356
 55,βάρος,heaviness,pathology,353
 293,ἔρως,love,opossite,347
 25,ὀργίζω,irritate,suffering,339
-119,ἐράω,"to love, to be in love with",emotion,337
+119,ἐράω,"to love, to be in love with",emotions,337
 294,θυμός,desire,opossite,334
 253,κάμνω,to work,dietetics,332
 229,ἰσχύς,strength,dietetics,331
-296,κακία,badness,moral,329
+296,κακία,badness,morality,329
 13,ἐλπίζω,"to hope for, look for, expect",opossite,314
-182,ἀδικία,"wrong-doing, injustice",moral,311
 33,ἀλγέω,be in pain,pain,311
+182,ἀδικία,"wrong-doing, injustice",morality,311
 59,ὄλλυμι,"to destroy, make an end of",suffering,300
-52,ἐξαμαρτάνω,"to err from the mark, fail",moral,294
+52,ἐξαμαρτάνω,"to err from the mark, fail",morality,294
 395,στῆθος,breast,bodily parts,284
 0,ὠφέλιμος,"helping, useful, serviceable, profitable, advantageous, beneficial",opossite,280
 110,θερμότης,heat,pathology,266
 53,μηρός,the thigh,bodily parts,265
-19,φοβερός,fearful,emotion,257
-72,μαίνομαι,"to rage, be furious",emotion,252
-12,δάκρυον,a tear,emotion,251
+19,φοβερός,fearful,emotions,257
+72,μαίνομαι,"to rage, be furious",emotions,252
+12,δάκρυον,a tear,emotions,251
 90,γῆρας,old age,pathology,248
-231,σωφρονέω,to be sound of mind,moral,243
-0,πάθημα,"anything that befals one, a suffering, calamity, misfortune",pathology,241
+231,σωφρονέω,to be sound of mind,morality,243
 217,ἰσχίον,the hip-joint,bodily parts,241
+0,πάθημα,"anything that befals one, a suffering, calamity, misfortune",pathology,241
 57,ἧπαρ,liver,bodily parts,240
-61,κύστις,the bladder,bodily parts,236
 43,εὐτυχέω,"to be well off, successful, prosperous",opossite,236
+61,κύστις,the bladder,bodily parts,236
 143,κάλλος,beauty,opossite,235
 25,ποτόν,drink,dietetics,227
-209,πονηρία,a bad state,moral,222
-3,ἀγαπάω,"to treat with affection, to caress, love, be fond of",opossite,219
+209,πονηρία,a bad state,morality,222
 70,σπλήν,"the milt, spleen",bodily parts,219
+3,ἀγαπάω,"to treat with affection, to caress, love, be fond of",opossite,219
 252,ἀκρατής,"powerless, impotent",dietetics,218
 227,ἀσκέω,"to work curiously, form by art, fashion",dietetics,217
-1,ἀγανακτέω,to be displeased,emotion,211
-218,ἁμάρτημα,"a failure, fault, sin",moral,211
+218,ἁμάρτημα,"a failure, fault, sin",morality,211
+1,ἀγανακτέω,to be displeased,emotions,211
 48,ὑποχόνδριος,abdomen,bodily parts,207
-28,φθονέω,be jealous,moral,205
-81,αἰσχύνη,"shame done one, disgrace, dishonour",moral,201
-61,μανία,"madness, frenzy",emotion,199
+28,φθονέω,be jealous,morality,205
+81,αἰσχύνη,"shame done one, disgrace, dishonour",morality,201
 162,ῥῖγος,"frost, cold",pathology,199
-167,ἐνδεής,in need of,dietetics,199
+61,μανία,"madness, frenzy",emotions,199
 45,ἄλγημα,pain,pain,199
-86,φθόνος,"ill-will, envy, jealousy",moral,189
+167,ἐνδεής,in need of,dietetics,199
 59,πλευρόν,rib,bodily parts,189
+86,φθόνος,"ill-will, envy, jealousy",morality,189
 137,ὀσφῦς,loins,bodily parts,189
 124,τράχηλος,neck,bodily parts,189
-54,γελάω,to laugh,emotion,188
+54,γελάω,to laugh,emotions,188
 16,σπασμός,"a convulsion, spasm",pathology,186
-216,ψέγω,"to blame, censure",moral,186
+216,ψέγω,"to blame, censure",morality,186
 6,αὐχήν,"the neck, throat",bodily parts,184
-24,λοιδορέω,abuse,suffering,181
-7,ἄχθομαι,to be grieved,emotion,181
+7,ἄχθομαι,to be grieved,emotions,181
 91,βήξ,cough,pathology,181
-79,δειλός,"cowardly, craven",moral,180
-14,κλαίω,"to weep, lament, wail",emotion,179
+24,λοιδορέω,abuse,suffering,181
+79,δειλός,"cowardly, craven",morality,180
+14,κλαίω,"to weep, lament, wail",emotions,179
 22,ἔντερον,"an intestine, piece of gut",bodily parts,177
 156,πυός,puss,pathology,177
 235,ῥώμη,strengh,dietetics,176
-187,ἐλεέω,"to have pity on, shew mercy upon",emotion,174
+187,ἐλεέω,"to have pity on, shew mercy upon",emotions,174
 210,ὄγκος,the barb,pathology,172
 324,τλήμων,wretched,suffering,167
 392,κνήμη,shank,bodily parts,167
-137,ἄπιστος,not to be trusted,moral,164
+137,ἄπιστος,not to be trusted,morality,164
 173,πνεύμων,the organ of,bodily parts,164
 147,ὀλέθριος,"destructive, deadly",pathology,163
 79,ταραχή,"trouble, disorder, confusion",suffering,162
 96,οἴδημα,swelling,pathology,162
-321,δύστηνος,unhappy,emotion,155
-125,θρασύς,"bold, spirited, courageous, confident",moral,154
+321,δύστηνος,unhappy,emotions,155
+125,θρασύς,"bold, spirited, courageous, confident",morality,154
 162,γυμνάζω,exercise,dietetics,153
 9,λυπηρός,painful,pain,152
 206,γυμνάσιον,exercise,dietetics,151
+243,ἄφρων,without sense,morality,149
 138,ἀρτηρία,the wind-pipe,bodily parts,149
-243,ἄφρων,without sense,moral,149
 27,σαρκώδης,fleshy,bodily parts,149
 255,ὄρεξις,"desire, appetite",opossite,144
 121,φλεγμαίνω,"to be heated, inflamed, to fester",pathology,144
-5,ἀκόλαστος,incontinent,moral,140
+5,ἀκόλαστος,incontinent,morality,140
 177,νῶτον,the back,bodily parts,138
-183,δειλία,cowardice,moral,137
-39,ἀνόητος,silly,moral,136
+183,δειλία,cowardice,morality,137
 198,ἀναπνοή,"recovery of breath, revival",dietetics,136
 58,σπάω,spasm,pathology,136
-155,ἀμαθία,ignorance,moral,135
+39,ἀνόητος,silly,morality,136
+155,ἀμαθία,ignorance,morality,135
 215,σήπω,to make rotten,pathology,133
 256,σιωπάω,to be still,dietetics,133
+302,αἰδώς,respect,morality,132
 189,νεφρός,the kidneys,bodily parts,132
-302,αἰδώς,respect,moral,132
 169,γνάθος,the jaw,bodily parts,132
 18,ἔμπυος,suppurating,pathology,131
+329,πῆμα,misery,emotions,130
 4,ὑγραίνω,"to wet, moisten",dietetics,130
 224,φάρυγξ,"the throat, gullet",bodily parts,130
-329,πῆμα,misery,emotion,130
 3,ἀπολαύω,enjoy,opossite,127
-40,δακρύω,weep,emotion,126
-29,ἀνάξιος,worthless,moral,126
+40,δακρύω,weep,emotions,126
+29,ἀνάξιος,worthless,morality,126
 391,ῥάχις,spine,bodily parts,124
 178,ἀσθενέω,to be weak,dietetics,122
-87,ἄτη,ruin,suffering,121
-69,ἀγκών,"the bend of the arm, the elbow",bodily parts,121
-83,θανάσιμος,deadly,pathology,121
 29,ῥόφημα,porridge,dietetics,121
-279,ἀκρασία,intemperence,moral,120
-218,πενία,need,dietetics,119
+69,ἀγκών,"the bend of the arm, the elbow",bodily parts,121
+87,ἄτη,ruin,suffering,121
+83,θανάσιμος,deadly,pathology,121
+279,ἀκρασία,intemperence,morality,120
 84,νῆστις,fasting,dietetics,119
+218,πενία,need,dietetics,119
 202,γυμναστικός,"fond of athletic exercises, skilled in them",dietetics,118
 85,μελίκρητον,a drink of honey and milk,dietetics,117
-243,βλαβερός,harmful,moral,115
-257,φλοιός,the bark,bodily parts,114
+243,βλαβερός,harmful,morality,115
 237,ἀλκή,strengh,dietetics,114
+257,φλοιός,the bark,bodily parts,114
 99,καῦμα,burning heat,pathology,113
 397,φλέβιον,of veins,bodily parts,112
 348,τλάω,endure,dietetics,112
 94,δίψα,thirst,dietetics,112
-151,βλέφαρον,eyelids,bodily parts,110
 7,ῥινόν,a hide,bodily parts,110
+151,βλέφαρον,eyelids,bodily parts,110
 206,μελέτη,"care, attention",dietetics,109
 8,εὐφραίνω,enjoy oneself,opossite,108
-40,θανατώδης,,pathology,107
 130,ὄρχις,the testicles,bodily parts,107
-41,Ἔρως,,emotion,106
-328,στένω,moan,emotion,106
-239,ἀτυχέω,to be unlucky,emotion,105
-34,μόρος,"man's appointed doom, fate, destiny",moral,105
-76,μυελός,marrow,bodily parts,105
+40,θανατώδης,,pathology,107
+41,Ἔρως,,emotions,106
+328,στένω,moan,emotions,106
 93,θέρμη,heat,pathology,105
+34,μόρος,"man's appointed doom, fate, destiny",morality,105
 33,σφαγή,"slaughter, butchery",suffering,105
-335,μέλεος,unhappy,emotion,105
-286,ἀκολασία,intemperence,moral,104
+335,μέλεος,unhappy,emotions,105
+76,μυελός,marrow,bodily parts,105
+239,ἀτυχέω,to be unlucky,emotions,105
+286,ἀκολασία,intemperence,morality,104
 116,βουβών,"groin, glands",bodily parts,102
-232,δέος,"fear, alarm, affright",moral,100
+232,δέος,"fear, alarm, affright",morality,100
 225,περιπατέω,"to walk up and down, to walk about",dietetics,99
-15,εὐπορία,an easy way,opossite,97
-71,κενόω,"to empty out, drain",dietetics,97
 161,δαπανάω,exhaust,dietetics,97
-75,ἄλγος,pain,pain,97
 158,χαλεπαίνω,"to be severe, sore, grievous",pathology,97
+71,κενόω,"to empty out, drain",dietetics,97
 24,κράς,the head,bodily parts,97
-287,ἄνοια,folly,moral,96
+15,εὐπορία,an easy way,opossite,97
+75,ἄλγος,pain,pain,97
+287,ἄνοια,folly,morality,96
+336,γόος,weeping,emotions,96
 72,πόθος,desire,opossite,96
-336,γόος,weeping,emotion,96
 268,Ἀφροδίσιος,sexual pleasure,opossite,96
 26,πτέρυξ,the wing,bodily parts,96
 207,περίπατος,walk,dietetics,94
@@ -199,135 +199,135 @@
 107,λέκτρον,"a couch, bed",dietetics,93
 26,κύμινον,cummin,dietetics,93
 81,ἑλκόω,to wound,pathology,92
-76,οἰκτρός,pitiable,emotion,91
 222,διψάω,to thirst,dietetics,91
+76,οἰκτρός,pitiable,emotions,91
+21,δυσχεραίνω,to be displeased,emotions,90
 102,αἱματώδης,blood-red,bodily parts,90
-21,δυσχεραίνω,to be displeased,emotion,90
 89,κλείς,collar-bone,bodily parts,89
 205,φῦσα,breath,dietetics,88
-195,μασχάλη,the armpit,bodily parts,85
 17,δεύω,"to wet, drench",dietetics,85
+195,μασχάλη,the armpit,bodily parts,85
 107,κενεών,flank,bodily parts,85
 136,οἰδέω,"to swell, become swollen",pathology,84
 226,κινητικός,of,dietetics,83
 164,καρτερέω,endure,dietetics,83
-188,ἐπαινετός,"to be praised, laudable",moral,83
 160,ταλαιπωρέω,distress,dietetics,83
+188,ἐπαινετός,"to be praised, laudable",morality,83
 225,μόχθος,toil,dietetics,81
+7,ῥοφέω,"to sup greedily up, gulp down",dietetics,81
 28,μέθη,strong drink,dietetics,81
 196,κρόταφος,the side of the forehead,bodily parts,81
-197,πλησμονή,satiety,opossite,81
 14,ταλαίπωρος,"suffering, miserable",dietetics,81
-7,ῥοφέω,"to sup greedily up, gulp down",dietetics,81
-42,ὀδυνάω,be in pain,pain,79
+197,πλησμονή,satiety,opossite,81
 74,θυμόω,provoke,suffering,79
+42,ὀδυνάω,be in pain,pain,79
 20,ἰητρεύω,heal,opossite,78
-115,ἀναίδεια,"shamelessness, impudence, effrontery",moral,78
+115,ἀναίδεια,"shamelessness, impudence, effrontery",morality,78
 1,δύσκολος,hard to satisfy with food;,dietetics,78
-364,ἀσώδης,suffering from nausea,pathology,77
 244,σωματικός,bodily,bodily parts,77
-91,ψῦξις,,dietetics,76
+364,ἀσώδης,suffering from nausea,pathology,77
+59,ἀναίσθητος,"insensate, unfeeling",emotions,76
 223,κακοδαίμων,"possessed by an evil genius, ill-fated, ill-starred, miserable",pathology,76
-59,ἀναίσθητος,"insensate, unfeeling",emotion,76
+91,ψῦξις,,dietetics,76
 83,στέρνον,"the breast, chest",bodily parts,75
+63,παραφρονέω,to be deranged,emotions,75
 98,κόπος,toil,dietetics,75
-63,παραφρονέω,to be deranged,emotion,75
-172,μοχθηρία,"bad condition, badness",suffering,74
 105,τέρπω,"to satisfy, delight, gladden, cheer",opossite,74
-135,δυσεντερία,dysentery,pathology,74
-114,πυκνότης,"closeness, thickness, denseness",pathology,74
-47,οἶκτος,pity,emotion,74
-10,σπασμώδης,spasmic,pathology,74
+172,μοχθηρία,"bad condition, badness",suffering,74
 154,ἰσχναίνω,make dry,dietetics,74
 51,ἄγρυπνος,hunting after sleep,dietetics,74
-159,οἰκτίρω,,emotion,73
-63,πότνια,"mistress, queen",moral,73
-172,ταλαιπωρία,distress,dietetics,73
+135,δυσεντερία,dysentery,pathology,74
+47,οἶκτος,pity,emotions,74
+114,πυκνότης,"closeness, thickness, denseness",pathology,74
+10,σπασμώδης,spasmic,pathology,74
 338,δέρκομαι,sight,opossite,73
-84,ἔλεος,"pity, mercy, compassion",emotion,72
+63,πότνια,"mistress, queen",morality,73
+159,οἰκτίρω,,emotions,73
+172,ταλαιπωρία,distress,dietetics,73
+174,ἀνελεύθερος,not fit for a free man,morality,72
 246,ἀηδής,unpleasant,suffering,72
-174,ἀνελεύθερος,not fit for a free man,moral,72
+84,ἔλεος,"pity, mercy, compassion",emotions,72
 159,στάζω,leak,pathology,71
 13,μᾶζα,a barley-cake,dietetics,71
 245,βρῶμα,"that which is eaten, food, meat",dietetics,71
-98,ἐρωτικός,amatory,emotion,71
-103,ἰχώρ,"ichor, the etherial juice",bodily parts,70
+98,ἐρωτικός,amatory,emotions,71
 240,φρίκη,"a shuddering, shivering",pathology,70
-140,παρανομέω,"to transgress the law, act unlawfully",moral,70
-100,ἀναιδής,shameless,moral,70
+140,παρανομέω,"to transgress the law, act unlawfully",morality,70
+100,ἀναιδής,shameless,morality,70
 139,κατάψυξις,cold,pathology,70
+103,ἰχώρ,"ichor, the etherial juice",bodily parts,70
 88,διψώδης,,dietetics,69
-2,πυρέσσω,to be ill of a fever,pathology,68
-82,κωματώδης,,pathology,68
-264,θαρσαλέος,confident,moral,68
+264,θαρσαλέος,confident,morality,68
 46,νείαιρα,abdomen,bodily parts,68
+82,κωματώδης,,pathology,68
+2,πυρέσσω,to be ill of a fever,pathology,68
+327,δεῖμα,fear,emotions,67
 153,καῦσος,burning heat.,pathology,67
-327,δεῖμα,fear,emotion,67
-97,ἐγκράτεια,mastery over,moral,67
+97,ἐγκράτεια,mastery over,morality,67
 128,φλεγμονή,,pathology,66
 36,ἐπιπίνω,to drink afterwards,dietetics,66
-116,θυμοειδής,"high-spirited, courageous",moral,66
-326,ἄχος,pain,pain,66
-228,ἐπίπονος,painful,pain,66
 77,πτισάνη,"peeled barley: a drink made thereof, barley-water, a ptisan",dietetics,66
 396,σφυρόν,ankle,bodily parts,66
-308,λήθη,forgetfulness,moral,65
-60,βήσσω,to cough,pathology,65
-212,ἀφροσύνη,"folly, thoughtlessness, senselessness",moral,65
-165,διαπονέω,work hard,dietetics,65
-142,ἴς,a muscle,bodily parts,65
-190,θράσος,"courage, boldness",moral,65
-150,διαθερμαίνω,warm through,pathology,65
+326,ἄχος,pain,pain,66
+228,ἐπίπονος,painful,pain,66
+116,θυμοειδής,"high-spirited, courageous",morality,66
 106,διάρροια,diarrhoea,pathology,65
+150,διαθερμαίνω,warm through,pathology,65
+60,βήσσω,to cough,pathology,65
+165,διαπονέω,work hard,dietetics,65
+212,ἀφροσύνη,"folly, thoughtlessness, senselessness",morality,65
+308,λήθη,forgetfulness,morality,65
+190,θράσος,"courage, boldness",morality,65
+142,ἴς,a muscle,bodily parts,65
+318,θάρσος,courage,morality,64
 132,σίαλον,"spittle, saliva",bodily parts,64
-318,θάρσος,courage,moral,64
-64,κατακτείνω,"to kill, slay, murder",suffering,63
-33,παραχέω,"to pour in beside, pour in",dietetics,63
 43,βαρύνω,oppress,suffering,63
+33,παραχέω,"to pour in beside, pour in",dietetics,63
+64,κατακτείνω,"to kill, slay, murder",suffering,63
+43,ἐκπνέω,to breathe out,dietetics,62
 68,πυρεταίνω,have fever,pathology,62
 399,χόνδρος,cartigage,bodily parts,62
-43,ἐκπνέω,to breathe out,dietetics,62
 168,εὐεξία,good health,opossite,61
-367,κακοήθης,malicious,moral,60
-185,πελιδνός,livid,emotion,60
-123,χλιαρός,"warm, lukewarm",pathology,59
-235,ὄλβος,"happiness, bliss, weal, wealth",opossite,59
-76,μωρός,"dull, sluggish, stupid",moral,59
-150,ἱμάς,a leathern strap,pathology,59
+367,κακοήθης,malicious,morality,60
+185,πελιδνός,livid,emotions,60
 82,φόνιος,deadly,pathology,59
-204,ὑβριστής,"a violent, overbearing person, a wanton, insolent man",moral,59
-126,ἀναίσχυντος,"shameless, impudent",moral,58
-363,φρικώδης,shivering,pathology,58
+123,χλιαρός,"warm, lukewarm",pathology,59
+150,ἱμάς,a leathern strap,pathology,59
+76,μωρός,"dull, sluggish, stupid",morality,59
+235,ὄλβος,"happiness, bliss, weal, wealth",opossite,59
+204,ὑβριστής,"a violent, overbearing person, a wanton, insolent man",morality,59
 46,ῥαφή,a seam,bodily parts,58
+363,φρικώδης,shivering,pathology,58
+126,ἀναίσχυντος,"shameless, impudent",morality,58
 101,ῥᾳθυμία,"easiness of temper, a taking things easily",opossite,57
 139,φρενιτικός,,pathology,57
-239,ἐκπονέω,toil,dietetics,56
-47,ἰξύα,waist,bodily parts,56
-69,ἀλγηδών,painful,pain,56
-158,φυράω,mix,dietetics,56
 120,μετάφρενον,back,bodily parts,56
-117,πότμος,"that which befals one, one's lot, destiny",moral,55
+239,ἐκπονέω,toil,dietetics,56
+69,ἀλγηδών,painful,pain,56
+47,ἰξύα,waist,bodily parts,56
+158,φυράω,mix,dietetics,56
 23,τάσις,"tension, intensity, force",dietetics,55
+73,ὀδύρομαι,lament,emotions,55
 74,ἄχθος,"a weight, burden, load",suffering,55
-379,ὀδυνώδης,painful,pain,55
-73,ὀδύρομαι,lament,emotion,55
-166,ῥᾳστώνη,easiness,opossite,55
-257,πεινάω,crave after,opossite,55
-258,ἀγαπητός,desirable,opossite,55
+117,πότμος,"that which befals one, one's lot, destiny",morality,55
 45,τέγγω,"to wet, moisten",dietetics,55
+257,πεινάω,crave after,opossite,55
+379,ὀδυνώδης,painful,pain,55
+258,ἀγαπητός,desirable,opossite,55
+166,ῥᾳστώνη,easiness,opossite,55
 11,ἄλητον,meal,dietetics,54
-52,ἀναισχυντία,shamelessness,moral,53
 171,ῥιγόω,"to be cold, shiver from cold",pathology,53
 126,ὕφαιμος,suffused with blood,pathology,53
-112,αἱμορραγία,,pathology,52
-95,ἐλεεινός,"finding pity, pitied",moral,52
+52,ἀναισχυντία,shamelessness,morality,53
 122,σαπρός,"rotten, putrid",pathology,52
-96,πήγανον,rue,moral,52
-44,ἀλγεινός,painful,pain,51
-18,ἐρώμενος,one's love,emotion,51
+96,πήγανον,rue,morality,52
+112,αἱμορραγία,,pathology,52
+95,ἐλεεινός,"finding pity, pitied",morality,52
 28,βληχρός,"weak, faint, slight",dietetics,51
-214,ἄσκησις,exercise,dietetics,51
+18,ἐρώμενος,one's love,emotions,51
 88,ὠδίς,childbirth pain,pain,51
-21,ῥύγχος,"a snout, muzzle",bodily parts,50
+44,ἀλγεινός,painful,pain,51
+214,ἄσκησις,exercise,dietetics,51
 97,στραγγουρία,strangury,pathology,50
+21,ῥύγχος,"a snout, muzzle",bodily parts,50
 186,τρομώδης,,pathology,50
